@@ -19,7 +19,7 @@ Blogs page containe 2 blogs.
 Website is responsive.
 
 ### Home page
-<img width="935" alt="image" src="https://user-images.githubusercontent.com/120921285/211171350-d9f826aa-641f-4d75-a28b-3bd77c46eb81.png">
+![Screenshot](screenshot.PNG)
 
 
 
